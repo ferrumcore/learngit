@@ -1,2 +1,6 @@
 hello world.
 2021年2月21日 周日
+
+git branch -M main
+git push -u origin main
+
